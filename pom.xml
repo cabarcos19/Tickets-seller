@@ -32,7 +32,7 @@
 
         <!-- Package versions -->
 		<commonsDbcp.version>2.5.0</commonsDbcp.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<servletApi.version>2.3</servletApi.version>
 		<httpclient.version>4.5.6</httpclient.version>
 		<jdom2.version>2.0.6</jdom2.version>
